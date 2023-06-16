@@ -12,9 +12,9 @@ We use pretrained glove embedding as listed below :
 2. Indonesian Pretrained Embedding Glove 50d trained on wikipedia indonesia ( https://drive.google.com/file/d/1jgnvIEp8rE3dh68lZXBHfyxzmeky9z6w/view?usp=sharing)
 
 The dataset we use on this model can be downloaded also in here : 
-Emotions Dataset for NLP (English) : https://www.kaggle.com/datasets/praveengovi/emotions-dataset-for-nlp 
-Indonesian Twitter Emotion Dataset : https://github.com/meisaputri21/Indonesian-Twitter-Emotion-Dataset/blob/master/Twitter_Emotion_Dataset.csv 
-Emotion Dataset from Indonesian Public Opinion : https://github.com/Ricco48/Emotion-Dataset-from-Indonesian-Public-Opinion 
+1. Emotions Dataset for NLP (English) : https://www.kaggle.com/datasets/praveengovi/emotions-dataset-for-nlp
+2. Indonesian Twitter Emotion Dataset : https://github.com/meisaputri21/Indonesian-Twitter-Emotion-Dataset/blob/master/Twitter_Emotion_Dataset.csv
+3. Emotion Dataset from Indonesian Public Opinion : https://github.com/Ricco48/Emotion-Dataset-from-Indonesian-Public-Opinion 
 
 
 Thank you.
