@@ -1,4 +1,4 @@
-# emotion-prediction
+# Emotion Prediction Indonesian English
 This project is made for our application, named RAHAYOO, an application to monitor employee mental health by chating with our chatbot and emotion analysis report, which is we will use this model to predict the emotion.
 
 Here we will make emotion prediction with Bidirectional LSTM model using glove pretrained embedding based on tweet dataset to classify 5 emotion which is : Anger, Fear, Sad, Happy, Love.
